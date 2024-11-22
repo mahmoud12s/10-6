@@ -1,0 +1,2129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* firs secthion start */
+.parent-sec{
+    background-color: rgb(24, 22, 22);
+
+}
+/* firs sec end */
+
+/* heder start with edits */
+.parent-sec .flex-start{
+color: white;
+font-size: larger;
+display: flex;
+justify-content: flex-start;
+position: relative;
+ left: 40px; 
+ bottom: 10px;
+ top: 10px;
+}
+
+.parent-sec .flex-start .he{
+color: yellowgreen;
+}
+/* heder start with edit done */
+
+
+/* heder but flex end side with edits start */
+.parent-sec .flex-end{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 20px;
+}
+.parent-sec .flex-end button{
+    color: white;
+    background-color: yellowgreen;
+    height: 32px;
+    font-size: medium;
+   padding: 0px 10px 0px 10px;  
+}
+/* heder but flex end side with edits end */
+
+
+/* nav start with edits */
+nav{
+    background-color: rgb(36, 35, 35);
+    height: 100px;
+}
+.flex-start2 .pp{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+   top: 55px;
+   left: 50px;
+    color: white;
+    font-size: xx-small;
+}
+.flex-start2 .pp2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    top: 55px;
+    left: 55px;
+    color: white;
+    font-size: xx-small;
+}
+.flex-start2 span{
+    font-size: xx-large;
+    color: turquoise;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}  
+ nav .flex-start2 .pp{
+    
+}
+.flex-end2 a{
+ margin: 35px;
+ font: bolder;
+ font-size: medium;
+color: white;
+}  
+nav .flex-start2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 50px;
+    
+}
+nav .flex-end2{
+    display: flex;
+    justify-content: flex-end;
+ position: relative;
+ bottom: 15px;
+ 
+ right: 100px;
+}
+nav .flex-end2 a .fa-magnifying-glass{
+    color: aqua;
+}
+
+/* nav end with edits */
+
+
+
+/* section 1 under the nav with edits start */
+.parent-sec2{
+    background-color: rgb(29, 28, 28);
+    height: 800px;
+    background-image: url(asests/portrait.png);
+    background-repeat: no-repeat;
+   background-position: right;
+
+}
+
+.parent-sec2 .flex-start3 .p3{
+color: turquoise;
+/* display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 50px;
+    top: 20px; */
+}
+.parent-sec2 .flex-start3{
+    color: white;
+    font-size: xx-large;
+   
+}
+.p1{
+    font-size: x-small;
+   color: turquoise;
+   position: relative;
+  left: 100px;
+   top: 20px;
+}
+.parent-sec2 .flex-start3 .p2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.parent-sec2 .flex-start3 .p4{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+.parent-sec2 .flex-start3 .hr{
+    background-color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    width: 50px;
+    border-top: solid turquoise;
+  
+}
+.p5{
+ height: 10px;
+ left: 100px;
+}
+.parent-sec2 .flex-start3 .p5{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    font-size: small;
+ color: gray;
+    
+    
+}
+.parent-sec2 .au .fa-circle-play{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    top: 70px;
+    color: white;
+    padding: 5px;
+    font-size: xx-large;
+    background-color: turquoise;
+    border-radius: 100px;
+    width: 40px;
+}
+.au2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    top: 30px;
+    color: white;
+}
+ .au2 .hr2{
+ 
+}
+.hr2{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    top: 40px;
+    color: white;
+    width: 60px;
+    border-top:  rgb(0, 0, 0);
+}
+.p6{
+    color: turquoise;
+    font-size: x-small;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    top: 55px;
+}
+/* section 1 under the nav with edits end {not fully end need to conteny tomorrow} */
+
+
+/* section 2 start */
+.parent-sec3{
+    background-color: black;
+    height: 700px;
+}
+.parent-sec3 .p10{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 140px;
+    top: 140px;
+}
+.parent-sec3 .span4{
+    color: turquoise;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 10px;
+}
+.parent-sec3 .p7{
+    color: white;
+    font-size: 70px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 140px;
+    top: 140px;
+}
+.hr3{
+    border-top: solid  turquoise;
+    width: 130px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 140px;
+    bottom: 70px;
+}
+.parent-sec3 .p8{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 140px;
+    top: 170px;
+   
+}
+.parent-sec3 .p9{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 140px;
+    top: 200px;
+}
+.but1{
+    background-color: turquoise;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    height: 50px;
+    border: none;
+    position: relative;
+    left: 140px;
+    top: 230px;
+}
+
+
+  
+
+.hh3{
+    color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+   /* border: solid turquoise; */
+    height: 300px;
+    left: 1000px;
+    width: 300px;
+    bottom: 100px;
+}
+.p11{
+    color: aqua;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    
+}
+.img3{
+    height: 80px; 
+    width: 80px;
+}
+.flex-end4 .flex-end3{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 465px;
+    right: 600px;
+    
+   
+   
+}
+/* section 2 end */
+
+/* section 2 start */
+
+.services-section {
+    width: 100%; 
+    display: flex;
+    gap: 50px;
+    padding: 40px;
+    background-color: #000; /* Ensure black background */
+    flex-wrap: wrap;
+}
+
+.services-content {
+    max-width: 500px;
+    flex: 1;
+}
+
+.services-content h4 {
+    color: #0fffb3;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.services-content h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.services-content .highlight {
+    color: #0fffb3;
+}
+
+.services-content p {
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #ccc;
+}
+
+.view-all {
+    background-color: #0fffb3;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    border-radius: 5px;
+}
+
+.view-all:hover {
+    background-color: #00d28e;
+}
+
+.services-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two cards per row */
+    gap: 20px; /* Space between cards */
+    flex: 1;
+}
+
+.card {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    transition: transform 0.3s ease, background 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    background-color: #222;
+}
+
+.card-img {
+    width: 40px;
+    margin: 0 auto 15px;
+    display: block;
+}
+
+.card h3 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.card p {
+    color: #ccc;
+    font-size: 14px;
+    line-height: 1.5;
+}
+/* section 2 end */
+
+/* section 3 start */
+.parent-sec3{
+    background-color: rgb(20, 19, 19);
+    height: 650px;
+}
+ .flex-start4 img{
+   margin-left: 100px;
+
+}
+.flex-start5 span{
+    color: turquoise;
+    margin: 5px;
+    
+}
+.flex-start5 .span1{
+    font-size: small;
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 800px;
+    bottom: 600px;
+
+}
+.flex-start5 p{
+    margin: 5px;
+    font-size: 50px;
+}
+
+.flex-start5 .p12{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 800px;
+    bottom: 630px;
+}
+.flex-start5 .p13{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1300px;
+    bottom: 700px;
+}
+.flex-start5 .p14{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 810px;
+    bottom: 710px;
+} 
+.flex-start5 hr{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 820px;
+    bottom: 700px;
+    width: 70px;
+    border-top: solid turquoise;
+}
+.flex-start6{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 820px;
+    bottom: 670px;
+}
+.flex-start7{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 640px;
+    right: 700px;
+    
+}
+.flex-start6 .p15{
+   font-size: small;
+  color: #ccc;
+ 
+}
+.flex-start7 .p16{
+    font-size: large;
+}
+.flex-start8{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 680px;
+    right: 800px;
+}
+.flex-start8 img{
+   
+ height: 50px;
+}
+.flex-start9{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 670px;
+    right: 560px;
+    color: #ccc;
+}
+.flex-start11 img{
+    height: 50px;
+}
+.flex-start10{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 750px;
+    right: 300px;
+    font-size: 20px;
+}
+.flex-start11{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 780px;
+    right: 450px;
+   
+   
+}
+.flex-start12{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 780px;
+    right: 220px;
+    color: #ccc;
+}
+    /* section 3 end */
+
+    /* section 4 start */
+    .parent-sec4 img{
+        
+    }
+    .parent-sec4{
+        background-image: url(asests/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg);
+
+        background-size: cover; 
+        background-position: right center;
+        background-repeat: no-repeat; 
+        width: 90%; 
+      height: 100%;
+    }
+    .flex-start13{
+        display: flex;
+        justify-content: center;
+        position: relative;
+        left: 100px;
+      height: 80px;
+      filter: grayscale(100%) contrast(120%);
+    }
+   
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #fff;
+}
+
+/* Latest Cases Section */
+.latest-cases {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr; /* Wider text column */
+    padding: 50px;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center; /* Align items vertically */
+}
+
+/* Text Content Styling */
+.text-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 20px;
+    text-align: left;
+    padding-right: 20px;
+}
+
+.text-content h4 {
+   display: flex;
+   justify-content: flex-start;
+   position: relative;
+   right: 200px;
+    font-size: 18px;
+    color: #00d37f;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.text-content h2 {
+    display: flex;
+   justify-content: flex-start;
+   position: relative;
+   right: 200px;
+    font-size: 40px;
+    margin: 10px 0;
+    color: #fff;
+    line-height: 1.2;
+}
+
+.text-content .highlight {
+    color: #00d37f;
+}
+
+.text-content p {
+    display: flex;
+   justify-content: flex-start;
+   position: relative;
+   right: 200px;
+    margin: 0;
+    line-height: 1.8;
+    font-size: 16px;
+    color: #ccc;
+}
+
+.text-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.text-content ul li {
+    display: flex;
+   justify-content: flex-start;
+   position: relative;
+   right: 200px;
+    position: relative;
+    padding-left: 30px;
+    margin: 10px 0;
+    line-height: 1.6;
+    font-size: 16px;
+    color: #fff;
+}
+
+.text-content ul li:before {
+    content: '✔';
+    position: absolute;
+    left: 0;
+    color: #00d37f;
+    font-size: 18px;
+}
+
+/* Image Grid Styling */
+.image-grid {
+    display: grid;
+    gap: 20px;
+    justify-content: center;
+}
+
+.image-row {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.image-row img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.image-row img:nth-child(1) {
+    flex: 1.2; /* Larger image */
+}
+
+.image-row img:nth-child(2) {
+    flex: 0.8; /* Smaller image */
+}
+
+/* need to be fixed */
+.parent-sec5{
+    height: 700px;
+    background-color: black;
+}
+
+.parent-sec5 .p18{
+    color: turquoise;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+
+.parent-sec5 .p19{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+.parent-sec5 .p20{
+    color: turquoise;
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 15px;
+    left: 370px;
+   
+}
+
+.parent-sec5 .p21{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 15px;
+    left: 200px;
+}
+
+.parent-sec5 .p22{
+    color: #ccc;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 340px;
+    bottom: 150px;
+}
+.p23{
+  
+}
+.parent-sec5 .p23{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 550px;
+    bottom: 50px;
+   
+}
+
+.parent-sec5 .fa-check{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 10px;
+    bottom: 5px;
+   
+    background-color: turquoise;
+    color: black;
+    padding:5px ;
+    border-radius: 50%;
+       
+}
+.flex-end5 .p24{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 580px;
+    bottom: 40px;
+}
+.flex-start15 img{
+    height: 300px;
+   
+}
+.flex-start15{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 850px;
+    bottom: 100px;
+    
+}
+.flex-start16{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 1100px;
+
+    bottom: 280px;
+}
+.flex-start16{
+    color: white;
+   font-size: 70px;
+}
+.flex-start17{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 300px;
+    height: 350px;
+    bottom: 380px;
+}
+.flex-start18{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    
+    bottom: 570px;
+    color: white;
+    font-size: 40px;
+    right: 530px;
+    font-size: 70px;
+}
+/* section 5 end */
+
+
+
+/* section 6 start */
+.parent-sec6{
+
+    height: 1400px;
+   
+   
+
+}
+.p25{
+    color: turquoise;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   bottom: 200px;
+   left: 250px;
+ 
+
+}
+.p26{
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   bottom: 150px;
+   
+}
+.p27{
+    color: turquoise;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+  
+    bottom: 150px;
+    left: 10px;
+}
+.flex-start19{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 900px;
+    
+}
+.hr3{
+    width: 170px;
+  
+   
+}
+.parent-sec6 hr{
+  
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 1030px;
+  left: 710px;
+   
+}
+
+.background {
+    background-image: url('asests/Bg-1.jpg');
+    background-size: cover;
+    background-position: center;
+   height: 1100px;
+    width: 100%;
+    background-color: #121212;
+}
+.p28{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 460px;
+    
+    bottom: 1000px;
+}
+.p29{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 490px;
+    
+    bottom: 1000px;
+}
+.flex-start21{
+    background-color: #201f1f;
+  height: 300px;
+  width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    bottom: 850px;
+    padding: 10px;
+}
+.flex-start22 img{
+    width: 300px;
+    filter: grayscale(100%) contrast(120%);
+}
+.flex-start22{
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+    bottom: 1200px;
+}
+.p30{
+    font-size: 25px;
+    color: white;
+}
+.flex-start23{
+display: flex;
+justify-content: flex-start;
+position: relative;
+bottom: 1390px;
+left: 450px;
+}
+.p31{
+    color: turquoise;
+    
+}
+.flex-start24{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 1350px;
+    left: 450px;
+}
+.flex-lorem1{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 420px;
+    
+    bottom: 1300px;
+}
+.flex-start25 img{
+    width: 300px;
+    filter: grayscale(100%) contrast(120%);
+}
+
+.flex-start26{
+    background-color: #201f1f;
+  height: 300px;
+  width: 600px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 750px;
+    bottom: 1500px;
+    padding: 10px;
+}
+.flex-start27{
+color: turquoise;
+display: flex;
+justify-content: flex-start;
+position: relative;
+bottom: 1550px;
+left: 430px;
+font-size: 30px;
+}
+.flex-start28{
+    color: turquoise;
+display: flex;
+justify-content: flex-start;
+position: relative;
+bottom: 1580px;
+left: 500px;
+font-size: 30px;
+}
+.flex-start29{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 1610px;
+    left: 465px;
+    font-size: 30px;
+}
+.flex-start25{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 750px;
+    bottom: 1940px;
+}
+.flex-start30{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1100px;
+    bottom: 2130px;
+    font-size: 25px;
+}
+.flex-start31{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2090px;
+    left: 1100px;
+}
+
+.flex-lorem2{
+    color: #ccc;
+font-size: 15px;
+display: flex;
+justify-content: flex-start;
+position: relative;
+left: 1050px;
+
+bottom: 2050px;
+}
+.flex-start32{
+    color: turquoise;
+display: flex;
+justify-content: flex-start;
+position: relative;
+bottom: 2000px;
+left: 1130px;
+font-size: 30px;
+}
+.flex-start33{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2030px;
+    left: 1210px;
+    font-size: 30px;
+}
+.flex-start34{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2060px;
+    left: 1170px;
+    font-size: 30px;
+}
+
+.flex-start35 img{
+    width: 300px;
+    filter: grayscale(100%) contrast(120%);
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    
+    bottom: 50px;
+}
+.flex-start35{
+    background-color: #201f1f;
+    height: 300px;
+    width: 600px;
+      display: flex;
+      justify-content: flex-start;
+      position: relative;
+      left: 100px;
+      bottom: 2000px;
+      padding: 10px;
+}
+.flex-start36{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 450px;
+    bottom: 2270px;
+    font-size: 25px;
+}
+.flex-start37{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2230px;
+    left: 450px;
+}
+.flex-lorem3{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 420px;
+    
+    bottom: 2190px;
+}
+.flex-start38{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 420px;
+    bottom: 2160px;
+    font-size: 30px;
+}
+.flex-start39{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2190px;
+    left: 500px;
+    font-size: 30px;
+}
+.flex-start40{
+    color: turquoise;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 460px;
+    
+    bottom: 2220px;
+}
+.flex-start41 img{
+    width: 300px;
+    filter: grayscale(100%) contrast(120%);
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    
+    bottom: 50px;
+}
+.flex-start41{
+    background-color: #201f1f;
+    height: 300px;
+    width: 600px;
+      display: flex;
+      justify-content: flex-start;
+      position: relative;
+      left: 750px;
+      bottom: 2470px;
+      padding: 10px;
+}           
+.flex-start42{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1100px;
+    bottom: 2740px;
+    font-size: 25px;
+}
+.flex-start43{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2700px;
+    left: 1100px;
+}           
+.flex-lorem4{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1050px;
+    
+    bottom: 2650px;
+}
+.flex-start44{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1090px;
+    bottom: 2620px;
+    font-size: 30px;
+}
+.flex-start45{
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 2650px;
+    left: 1160px;
+    font-size: 30px;
+}
+.flex-start46{
+    color: turquoise;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1124px;
+    
+    bottom: 2680px; 
+}
+.parent-sec7{
+    height: 900px; 
+    color: black;
+}
+.flex-start47{
+    color: turquoise;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   bottom: 200px;
+    font-size: 20px;
+}
+.flex-start48{
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+   bottom: 190px;
+    font-size: 40px; 
+    right: 50px;   
+}
+.flex-start49{
+    color: turquoise;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 235px;
+    left: 60px;
+    font-size: 40px;    
+}
+/* .flex-start50 hr{
+   
+   color: turquoise;
+  width: 50px;
+ 
+} */
+.flex-start50{
+   width: 50px;
+   border-top: solid 2px turquoise;
+
+   display: flex;
+   justify-content: center;
+   position: relative;
+   bottom: 230px;
+  left: 730px;
+   
+}
+ .flex-start51{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 80px;
+    
+    bottom: 200px;
+   
+}
+.flex-start52{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left:50px;
+    
+    bottom: 200px;
+}
+.flex-start53 img{
+    height: 300px;
+    margin: 5px;
+}
+.flex-start53{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 180px;
+    
+}
+.flex-start54 img{
+    height: 300px;
+    margin: 5px;
+}
+.flex-start54{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 180px;
+}
+.flex-start55 img{
+    height: 300px;
+    margin: 5px;
+}
+.flex-start55{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 180px;
+}
+.parent-sec8 .flex-start56{
+    height: 700px;
+    background-image: url(asests/adadad.jpg);
+    background-size: cover;
+    background-color: transparent;
+    opacity: 0.5;
+}
+.p41{
+    color: turquoise;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 500px;
+    left: 250px;
+    
+}
+.p42{
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 480px;
+    left: 250px;
+}
+.p43{
+    color: turquoise;
+    font-size: 35px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 520px;
+    left: 355px;
+}
+.p44{
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 560px;
+    left: 450px;
+}
+.hr4{
+    width: 90px;
+    border-top: solid 2px turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 550px;
+    left: 250px;
+}
+.flex-start62{
+    color: #ccc;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 500px;
+    left: 250px;
+    width: 600px;
+}
+.flex-start63 .but3{
+    color: white;
+    background-color: turquoise;
+   padding: 10px 10px 10px 10px; 
+    height: 40px;
+    font-size: 20px;
+}
+.flex-start63{
+   
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 480px;
+    left: 250px;
+   
+}
+.flex-start64{
+    background-color: #201f1f;
+    height: 300px;
+    width: 600px;
+      display: flex;
+      justify-content: flex-start;
+      position: relative;
+      left: 850px;
+      bottom: 650px;
+      padding: 10px;
+      opacity: 0.9;
+}
+
+.flex-start65{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 870px;
+    bottom: 920px;
+}
+.flex-start66 img{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 900px;
+    bottom: 820px;
+}
+.flex-start67{
+    color: #ccc;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 970px;
+    bottom: 860px;
+    font-size: 20px;
+}
+.flex-start68{
+    color: turquoise;
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 970px;
+    bottom: 850px;
+    font-size: 10px;
+}
+
+.flex-start69{
+    color: turquoise;
+    font-size: 15px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 970px;
+    bottom: 840px;
+    font-size: 10px;
+}
+
+.parent-sec9{
+    height: 500px;
+    background-color: black;
+}
+
+.p50{
+    color: turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 619px;
+    left: 650px;
+}
+
+.p51{
+    color: turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 642px;
+    left: 715px;
+}
+.p52{
+    color: white;
+    font-size: 45px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 630px;
+    left: 480px;
+}
+.p53{
+    color: turquoise;
+    font-size: 45px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 680px;
+    left: 710px;
+}
+
+.hr5{
+    width: 90px;
+    border-top: solid 2px turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 680px;   
+    left: 600px;
+}
+
+   .p54{
+       color: #ccc;
+       font-size: 15px;
+       display: flex;
+       justify-content: flex-start;
+       position: relative;
+       bottom: 660px;
+       left: 400px;
+   }
+   .p55{
+       color: #ccc;
+       font-size: 15px;
+       display: flex;
+       justify-content: flex-start;
+       position: relative;
+       bottom: 630px;
+       left: 460px;
+   } 
+   .flex-start74 img{
+    width: 300px;
+    margin: 15px;
+   }
+   .flex-start74{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+    bottom: 600px;
+
+   }
+   .p56{
+    color: turquoise;
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 600px;
+    left: 270px;
+}
+   .p57{
+    font-size: 25px;
+    color: turquoise;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+  bottom: 650px;
+  left: 600px;
+}
+
+   
+   .p58{
+    font-size: 25px;
+    color: turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    bottom: 710px;
+    left: 950px;
+   }
+   .p59{
+    color: #ccc;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 260px;
+    
+    bottom: 700px;
+}
+.p60{
+    color: #ccc;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 600px;
+    
+    bottom: 730px;
+}
+.p61{
+    color: #ccc;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 950px;
+    
+    bottom: 766px;
+}
+.flex-start77{
+    color: turquoise;
+   font-size: 20px;
+    width: 30px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 270px;
+    bottom: 740px;
+}
+.p62{
+    font-size: 10px;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 300px;
+    bottom: 755px;
+}
+.flex-start79{
+    color: turquoise;
+    font-size: 20px;
+    width: 30px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 440px;
+    bottom: 770px;
+}
+.p63{
+    font-size: 10px;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+   left: 50px;
+    bottom: 15px;
+}
+.flex-start80{
+    color: turquoise;
+    font-size: 20px;
+    width: 30px;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 420px;
+    bottom: 770px;
+}
+ 
+.flex-start81{
+    color: turquoise;
+    font-size: 20px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 600px;
+    bottom: 800px;
+}
+.flex-start82{
+    color: white;
+    font-size: 10px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 640px;
+    bottom: 815px;
+}
+.flex-start83{
+    color: turquoise;
+    font-size: 20px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 765px;
+    bottom: 830px;
+}
+.flex-start84{
+    color: white;
+    font-size: 10px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 790px;
+    bottom: 846px;
+}
+
+.flex-start86{
+    color: white;
+    font-size: 10px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1000px;
+    bottom: 870px;
+}
+.flex-start85{
+    color: turquoise;
+    font-size: 20px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 965px;
+    bottom: 855px;
+}
+.flex-start88{
+    color: white;
+    font-size: 10px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1150px;
+    bottom: 900px;
+}
+.flex-start87{
+    color: turquoise;
+    font-size: 20px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 1100px;
+    bottom: 885px;
+}
+
+.parent-sec10{
+    background-color: black;
+    height: 700px;
+}
+.flex-start90{
+    border: solid turquoise;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 100px;
+   bottom: 200px;
+    height: 600px;
+    width: 600px;
+}
+.flex-start89 input{   
+
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    bottom: 750px;
+    background-color: #121212;
+    height: 30px;
+    width: 500px;
+    border: 2px solid turquoise; /* Border color */
+}
+.p68{
+    color: turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 160px;
+   bottom: 820px;
+}
+.flex-start91 input{   
+
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    bottom: 680px;
+    background-color: #121212;
+    height: 30px;
+    width: 500px;
+    border: 2px solid turquoise; /* Border color */
+}
+.p69{
+    color: turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 160px;
+   bottom: 750px;
+}
+.flex-start92 textarea{   
+
+    width: 30%; 
+      height: 200px; 
+      font-size: 20px; 
+      background-color: #1a1a1a; 
+      color: #ffffff; 
+      border: 2px solid turquoise; 
+      padding: 10px; 
+      border-radius: 8px; 
+      resize: none; 
+      font-family: 'Arial', sans-serif; 
+      display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    bottom: 630px;
+}
+/* .p70{
+    color: turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 160px;
+   bottom: 860px;
+} */
+.flex-start93{
+    color: turquoise;
+    font-size: 20px;
+   
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    bottom: 860px;
+}
+.flex-start94 button{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 140px;
+    bottom: 630px;
+    height: 40px;
+    width: 500px;    
+    background-color: turquoise;
+    color: white;
+    border: 2px solid turquoise;
+   
+    font-size: 20px;
+}   
+.p71{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    left: 160px;
+    top: 10px;
+    
+}
+.p72{
+    color: turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 1160px;
+}
+.p73{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 1140px;
+}
+.p74{
+    color: turquoise;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 820px;
+   bottom: 1176px;
+}
+.p75{
+    color: #ccc;
+    font-size: 20px;
+    width: 600px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 1150px;
+}
+
+
+.flex-start96 hr{
+    color: turquoise;
+    border: solid turquoise;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 1160px;
+  width: 50px;
+}
+.flex-start98{
+    color: turquoise;
+   
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 1060px;
+  width: 50px;
+}
+.flex-start99{
+    color: turquoise;
+   
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 1000px;
+  width: 50px;
+}
+.flex-start100{
+    color: turquoise;
+   
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 730px;
+   bottom: 940px;
+  width: 50px;
+}
+.flex-start101{
+    color: white;
+   
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 1170px;
+ 
+}
+.flex-start102{
+    color: turquoise;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 760px;
+   bottom: 1160px;
+  
+}
+.flex-start103{
+    color: white;
+   
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 1110px;
+}
+.flex-start104{
+    color: turquoise;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 1100px;
+}
+.flex-start105{
+    color: white;
+   
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 1050px;
+}
+.flex-start106{
+    color: turquoise;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 1040px;
+}
+
+.p81{
+    color: turquoise;
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    right: 150px;
+    top: 1100px;
+}
+
+.parent-sec11{
+   height: 700px;
+   width: 1500px;
+    background: black;
+}
+.p82{
+    color: white;
+    font-size: 7px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    right: 100px;
+    top: 1113px;
+}
+.p83{
+    color: white;
+    font-size: 7px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    right: 200px;
+    top: 1113px;
+}
+.flex-start107{
+    color: white;
+   
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 1000px;
+}
+.flex-start108{
+    color: turquoise;
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 780px;
+   bottom: 990px;
+}
+
+.flex-start109 p{
+    margin: 5px;
+    color: turquoise;
+}
+.flex-start109{
+
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+    left: 380px;
+   top: 200px;
+}
+.flex-start110{
+    color: #ccc;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+   left: 470px;
+    top: 600px;
+}
+.flex-start111{
+    color: #ccc;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+   left: 470px;
+    top: 600px; 
+}   
+
+.flex-start112{
+    color: #ccc;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+   left: 470px;
+    top: 600px; 
+}
+
+.flex-start113{
+    color: #ccc;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+   left: 470px;
+    top: 600px; 
+}
+
+.flex-start114{
+    color: turquoise;
+   
+    font-size: 10px;
+    display: flex;
+    justify-content: flex-start;    
+    position: relative;
+  
+    
+}   
